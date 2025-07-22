@@ -1,0 +1,125 @@
+{
+  "semantic": [
+    {
+      "memory_type": "semantic",
+      "content": {
+        "entities": [],
+        "relationships": [],
+        "concepts": [],
+        "facts": [],
+        "definitions": [
+          {
+            "term": "A neural network",
+            "definition": "computational model inspired by biological neural networks",
+            "confidence": 0.9,
+            "context": "A neural network is a computational model inspired by biological neural networks."
+          }
+        ]
+      },
+      "confidence": 1.0,
+      "source_message_id": "msg_2",
+      "context": {
+        "speaker": "assistant",
+        "conversation_context": {
+          "current_topic": "neural",
+          "participants": [
+            "assistant",
+            "user"
+          ],
+          "ongoing_procedures": [],
+          "mentioned_entities": {},
+          "relationship_mentions": []
+        },
+        "message_type": "text"
+      },
+      "timestamp": "2025-07-22T17:27:17.283628"
+    },
+    {
+      "memory_type": "semantic",
+      "content": {
+        "entities": [
+          {
+            "name": "First",
+            "type": "ORDINAL",
+            "start_pos": 27,
+            "end_pos": 32,
+            "confidence": 0.8
+          },
+          {
+            "name": "Second",
+            "type": "ORDINAL",
+            "start_pos": 93,
+            "end_pos": 99,
+            "confidence": 0.8
+          },
+          {
+            "name": "Third",
+            "type": "ORDINAL",
+            "start_pos": 142,
+            "end_pos": 147,
+            "confidence": 0.8
+          },
+          {
+            "name": "Fourth",
+            "type": "ORDINAL",
+            "start_pos": 188,
+            "end_pos": 194,
+            "confidence": 0.8
+          },
+          {
+            "name": "Fifth",
+            "type": "ORDINAL",
+            "start_pos": 238,
+            "end_pos": 243,
+            "confidence": 0.8
+          },
+          {
+            "name": "SGD",
+            "type": "ORG",
+            "start_pos": 333,
+            "end_pos": 336,
+            "confidence": 0.8
+          },
+          {
+            "name": "Adam",
+            "type": "PERSON",
+            "start_pos": 340,
+            "end_pos": 344,
+            "confidence": 0.8
+          }
+        ],
+        "relationships": [],
+        "concepts": [],
+        "facts": [],
+        "definitions": []
+      },
+      "confidence": 0.8,
+      "source_message_id": "msg_4",
+      "context": {
+        "speaker": "assistant",
+        "conversation_context": {
+          "current_topic": "neural",
+          "participants": [
+            "assistant",
+            "user"
+          ],
+          "ongoing_procedures": [],
+          "mentioned_entities": {
+            "First": 1,
+            "Second": 1,
+            "Third": 1,
+            "Fourth": 1,
+            "Fifth": 1,
+            "SGD": 1,
+            "Adam": 1
+          },
+          "relationship_mentions": []
+        },
+        "message_type": "text"
+      },
+      "timestamp": "2025-07-22T17:37:17.283628"
+    }
+  ],
+  "episodic": [],
+  "procedural": []
+}

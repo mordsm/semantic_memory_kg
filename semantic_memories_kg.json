@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "First",
+      "type": "ORDINAL",
+      "start_pos": 27,
+      "end_pos": 32,
+      "confidence": 0.8,
+      "source_message": "msg_4",
+      "extracted_at": "2025-07-22T17:37:17.283628"
+    },
+    {
+      "name": "Second",
+      "type": "ORDINAL",
+      "start_pos": 93,
+      "end_pos": 99,
+      "confidence": 0.8,
+      "source_message": "msg_4",
+      "extracted_at": "2025-07-22T17:37:17.283628"
+    },
+    {
+      "name": "Third",
+      "type": "ORDINAL",
+      "start_pos": 142,
+      "end_pos": 147,
+      "confidence": 0.8,
+      "source_message": "msg_4",
+      "extracted_at": "2025-07-22T17:37:17.283628"
+    },
+    {
+      "name": "Fourth",
+      "type": "ORDINAL",
+      "start_pos": 188,
+      "end_pos": 194,
+      "confidence": 0.8,
+      "source_message": "msg_4",
+      "extracted_at": "2025-07-22T17:37:17.283628"
+    },
+    {
+      "name": "Fifth",
+      "type": "ORDINAL",
+      "start_pos": 238,
+      "end_pos": 243,
+      "confidence": 0.8,
+      "source_message": "msg_4",
+      "extracted_at": "2025-07-22T17:37:17.283628"
+    },
+    {
+      "name": "SGD",
+      "type": "ORG",
+      "start_pos": 333,
+      "end_pos": 336,
+      "confidence": 0.8,
+      "source_message": "msg_4",
+      "extracted_at": "2025-07-22T17:37:17.283628"
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "start_pos": 340,
+      "end_pos": 344,
+      "confidence": 0.8,
+      "source_message": "msg_4",
+      "extracted_at": "2025-07-22T17:37:17.283628"
+    }
+  ],
+  "relationships": [],
+  "concepts": [],
+  "metadata": {
+    "export_timestamp": "2025-07-22T19:22:17.691795",
+    "total_memories_processed": 2
+  }
+}
